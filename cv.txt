@@ -1,0 +1,8 @@
+\documentclass[10pt]{article}
+\usepackage[margin=3cm]{geometry}
+\title{\bfseries\Huge Ricardo Maya H.}
+\author{ricardo290792@gmail.com}
+\date{}
+\begin{document}
+\maketitle
+\end{document}
