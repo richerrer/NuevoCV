@@ -1,8 +1,18 @@
 \documentclass[10pt]{article}
-\usepackage[margin=3cm]{geometry}
+\usepackage[margin=2cm]{geometry}
 \title{\bfseries\Huge Ricardo Maya H.}
-\author{ricardo290792@gmail.com}
+\author{ricardo290792@hotmail.com}
 \date{}
 \begin{document}
 \maketitle
+\begin{minipage}[ht]{0.48\textwidth}
+Alborada 13 etapa mz2 v 19\\
+Ciudad natal: Quito\\
+Ciudad origen: Guayaquil
+\end{minipage}
+\begin{minipage}[ht]{0.48\textwidth}
+Nacimiento: Julio 29 1992\\
+Estado Civil: Soltero\\
+Edad: 20 
+\end{minipage}
 \end{document}
