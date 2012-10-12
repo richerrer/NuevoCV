@@ -47,19 +47,23 @@
 
 \begin{cvlist}{Formación}
 
-	\item[2010 a PRESENTE] \textbf{Escuela Superior Politecnica Del Litoral}\\
-		\emph{1 semestre a 5 semestres: Estudios en Ingenieria en Sistemas Multimedia}\\
+	\item[2010 a presente] \textbf{Escuela Superior Politecnica Del Litoral}\\
+		\emph{1 semestre a 5 semestre: Estudios en Ingenieria en Sistemas Multimedia}\\
 	
-	\item[0000 a 0000] \textbf{Institución educativa}\\
-		\emph{Grado académico}\\
-		Méritos académicos.
-
+	\item[2003 a 2009] \textbf{Unidad Educativa Liceo Aeronautico N2}\\
+		\emph{1 a 6 año:Formacion Media}\\
+		Bachiller Físico Matemático\\
+		Sub Teniente de Reserva
+		
+	\item[1996 a 2003] \textbf{Unidad Educativa FAE N1}\\
+		\emph{1 a 7 curso:Formacion Basica}\\\\
+\\
+		
 \end{cvlist}
-
 \begin{cvlist}{Otros estudios y conocimientos}
-	\item Otro.
-	\item Otro.
-	\item Otro.
+	\item Estudios en el Instituto Benedic
+	\item Formacion Militar (3 días supervivencia)
+	
 \end{cvlist}
 
 \end{cv}
